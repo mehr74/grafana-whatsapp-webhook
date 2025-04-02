@@ -1,4 +1,4 @@
-module github.com/optiop/grafana-whatsapp-webhook
+module github.com/optiop/grafana-whatsapp-webhook/v0.1.5
 
 go 1.23.3
 
