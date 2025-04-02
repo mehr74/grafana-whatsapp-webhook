@@ -1,4 +1,4 @@
-module github.com/mehr74/grafana-whatsapp-webhook/v0.1.5
+module github.com/mehr74/grafana-whatsapp-webhook/v0.1.6
 
 go 1.23.3
 

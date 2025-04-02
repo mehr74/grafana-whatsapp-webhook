@@ -7,8 +7,8 @@ import (
 	"os/signal"
 	"sync"
 
-	"github.com/optiop/grafana-whatsapp-webhook/pkg/service"
-	"github.com/optiop/grafana-whatsapp-webhook/pkg/whatsapp"
+	"github.com/mehr74/grafana-whatsapp-webhook/pkg/service"
+	"github.com/mehr74/grafana-whatsapp-webhook/pkg/whatsapp"
 )
 
 func main() {

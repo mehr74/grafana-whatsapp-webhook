@@ -9,8 +9,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/optiop/grafana-whatsapp-webhook/pkg/entity"
-	"github.com/optiop/grafana-whatsapp-webhook/pkg/whatsapp"
+	"github.com/mehr74/grafana-whatsapp-webhook/pkg/entity"
+	"github.com/mehr74/grafana-whatsapp-webhook/pkg/whatsapp"
 )
 
 var appToken = os.Getenv("WHATSAPP_APP_TOKEN")
